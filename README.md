@@ -1,6 +1,3 @@
-Certainly! Here's a single `README.md` file for your GitHub repository:
-
-```markdown
 # Learning Management System (LMS) in Java
 
 This is a simple Learning Management System (LMS) implemented in Java. It allows users to register as students or instructors, create and enroll in courses, and perform various actions depending on their roles.
